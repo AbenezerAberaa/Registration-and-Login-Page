@@ -1,4 +1,4 @@
-**Student registration and signup page**.
+**Student registration and login page**.
 ========================================
 - This repository includes.....
 
